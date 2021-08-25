@@ -1,0 +1,22 @@
+{
+  "name": "itwp",
+  "version": "1.6.9",
+  "description": "itghame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiD3n/itwp.git"
+  },
+  "keywords": [
+    "it"
+  ],
+  "author": "Diden i Aritrax B)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiD3n/itwp/issues"
+  },
+  "homepage": "https://github.com/DiD3n/itwp#readme"
+}
